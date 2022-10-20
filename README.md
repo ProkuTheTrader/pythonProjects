@@ -1,7 +1,6 @@
 # python-raw-black-jack-game
 Practicing procedural programming. Basic logic terminal black jack game
 
-"""
 .------.            _     _            _    _            _    
 |A_  _ |.          | |   | |          | |  (_)          | |   
 |( \/ ).-----.     | |__ | | __ _  ___| | ___  __ _  ___| | __
@@ -9,5 +8,4 @@ Practicing procedural programming. Basic logic terminal black jack game
 |  \/ | /  \ |     | |_) | | (_| | (__|   <| | (_| | (__|   < 
 `-----| \  / |     |_.__/|_|\__,_|\___|_|\_\ |\__,_|\___|_|\_\\
       |  \/ K|                            _/ |                
-      `------'                           |__/           
-"""
+      `------'                           |__/     
